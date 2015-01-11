@@ -8,3 +8,7 @@ The 'apple_COL_file' in a downloaded scene uses a absolute path in the computer 
 We can use the script to reset the path to:
 ./sourceimages/fruit_bowl_textures/apple/apple_COL.jpg
 by entering the folder "sourceimages" and prefix "./"
+
+qtshim.py and mayautils.py were from
+https://github.com/rgalanakis/practicalmayapython
+for the book "Practical Maya Programming with Python"
