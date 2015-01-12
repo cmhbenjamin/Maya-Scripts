@@ -1,3 +1,5 @@
+<a href="http://imgur.com/hZIiyLU"><img src="http://i.imgur.com/hZIiyLU.png" title="source: imgur.com" /></a>
+<h1>Maya Texture Path Fix</h1>h1>
 This script fixes the broken texture paths in a Maya file
 
 For example:
